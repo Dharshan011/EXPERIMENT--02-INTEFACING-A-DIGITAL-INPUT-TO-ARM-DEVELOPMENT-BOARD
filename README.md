@@ -158,10 +158,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![pmc1](https://github.com/Dharshan011/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/113497491/1b05c689-244c-4869-a77e-ff0d84a5a9bd)
+
 
  ![pmc2](https://github.com/Dharshan011/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/113497491/5d38c0e7-9efe-43a1-9e89-e70e8dc19508)
 
+![pmc1](https://github.com/Dharshan011/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/113497491/1b05c689-244c-4869-a77e-ff0d84a5a9bd)
  
  
 ## Result :
